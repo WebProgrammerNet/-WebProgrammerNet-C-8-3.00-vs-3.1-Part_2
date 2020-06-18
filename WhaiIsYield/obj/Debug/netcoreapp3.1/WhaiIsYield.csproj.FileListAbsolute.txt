@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\bin\Debug\netcoreapp3.1\WhaiIsYield.exe
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\bin\Debug\netcoreapp3.1\WhaiIsYield.deps.json
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\bin\Debug\netcoreapp3.1\WhaiIsYield.runtimeconfig.json
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\bin\Debug\netcoreapp3.1\WhaiIsYield.runtimeconfig.dev.json
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\bin\Debug\netcoreapp3.1\WhaiIsYield.dll
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\bin\Debug\netcoreapp3.1\WhaiIsYield.pdb
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\obj\Debug\netcoreapp3.1\WhaiIsYield.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\obj\Debug\netcoreapp3.1\WhaiIsYield.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\obj\Debug\netcoreapp3.1\WhaiIsYield.AssemblyInfo.cs
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\obj\Debug\netcoreapp3.1\WhaiIsYield.dll
+C:\Users\Code\source\repos\Subscribe\WhaiIsYield\obj\Debug\netcoreapp3.1\WhaiIsYield.pdb

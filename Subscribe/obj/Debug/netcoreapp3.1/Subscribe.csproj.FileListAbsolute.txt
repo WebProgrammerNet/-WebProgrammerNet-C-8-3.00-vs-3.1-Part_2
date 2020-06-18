@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\Subscribe\Subscribe\bin\Debug\netcoreapp3.1\Subscribe.exe
+C:\Users\Code\source\repos\Subscribe\Subscribe\bin\Debug\netcoreapp3.1\Subscribe.deps.json
+C:\Users\Code\source\repos\Subscribe\Subscribe\bin\Debug\netcoreapp3.1\Subscribe.runtimeconfig.json
+C:\Users\Code\source\repos\Subscribe\Subscribe\bin\Debug\netcoreapp3.1\Subscribe.runtimeconfig.dev.json
+C:\Users\Code\source\repos\Subscribe\Subscribe\bin\Debug\netcoreapp3.1\Subscribe.dll
+C:\Users\Code\source\repos\Subscribe\Subscribe\bin\Debug\netcoreapp3.1\Subscribe.pdb
+C:\Users\Code\source\repos\Subscribe\Subscribe\obj\Debug\netcoreapp3.1\Subscribe.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Subscribe\Subscribe\obj\Debug\netcoreapp3.1\Subscribe.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Subscribe\Subscribe\obj\Debug\netcoreapp3.1\Subscribe.AssemblyInfo.cs
+C:\Users\Code\source\repos\Subscribe\Subscribe\obj\Debug\netcoreapp3.1\Subscribe.dll
+C:\Users\Code\source\repos\Subscribe\Subscribe\obj\Debug\netcoreapp3.1\Subscribe.pdb

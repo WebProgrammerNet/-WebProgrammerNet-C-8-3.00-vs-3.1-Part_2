@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\bin\Debug\netcoreapp3.1\CollectionTypes.exe
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\bin\Debug\netcoreapp3.1\CollectionTypes.deps.json
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\bin\Debug\netcoreapp3.1\CollectionTypes.runtimeconfig.json
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\bin\Debug\netcoreapp3.1\CollectionTypes.runtimeconfig.dev.json
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\bin\Debug\netcoreapp3.1\CollectionTypes.dll
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\bin\Debug\netcoreapp3.1\CollectionTypes.pdb
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\obj\Debug\netcoreapp3.1\CollectionTypes.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\obj\Debug\netcoreapp3.1\CollectionTypes.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\obj\Debug\netcoreapp3.1\CollectionTypes.AssemblyInfo.cs
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\obj\Debug\netcoreapp3.1\CollectionTypes.dll
+C:\Users\Code\source\repos\Subscribe\CollectionTypes\obj\Debug\netcoreapp3.1\CollectionTypes.pdb
